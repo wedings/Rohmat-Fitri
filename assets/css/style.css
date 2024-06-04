@@ -54,7 +54,10 @@ body {
     box-shadow: var(--box-shadow);
 }
 
-.mynavbar {}
+.mynavbar {
+    background-color: rgba(255, 255, 255, 0.4) !important;
+    backdrop-filter: blur(4px);
+}
 
 .mynavbar .navbar-brand,
 .mynavbar .offcanvas-title {
@@ -69,6 +72,7 @@ body {
     min-height: 100vh;
     margin-top: -6rem;
     padding-top: 15rem;
+    padding-bottom: 5rem;
 }
 
 
