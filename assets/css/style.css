@@ -64,10 +64,11 @@ body {
 }
 
 .home {
-    background-image: url(../images/bg-home.jpg);
+    background-image: url(../images/bg.png);
     background-size: cover;
     min-height: 100vh;
     margin-top: -6rem;
+    padding-top: 15rem;
 }
 
 
