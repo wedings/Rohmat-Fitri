@@ -67,6 +67,7 @@ body {
     background-image: url(../images/bg-home.jpg);
     background-size: cover;
     min-height: 100vh;
+    margin-top: -6rem;
 }
 
 
